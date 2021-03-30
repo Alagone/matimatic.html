@@ -1,0 +1,12 @@
+body{
+	background-image: url(cayn.png);
+}
+a{
+	text-decoration: none;
+	color: #FF0;
+	font-size: 69px;
+	margin: 15px;
+}
+label{
+	font-size: 60px;
+}
